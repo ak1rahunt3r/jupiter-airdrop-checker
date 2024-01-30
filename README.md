@@ -1,5 +1,6 @@
 # jupiter-airdrop-checker
 Solana wallets checker for `Jupiter` airdrop. Written on `.Net Framework 4.8` with `SolNet SDK`. Supported `Socks4` ans `Socks5` proxies. Multithread work with proxy mode.
+
 ![](https://github.com/ak1rahunt3r/jupiter-airdrop-checker/blob/main/example.png?raw=true)
 
 ### Setup
