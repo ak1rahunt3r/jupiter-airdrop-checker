@@ -33,6 +33,10 @@ How to use:
 - Start bot
 - Checker results will be saved to `output` folder.
 
-
+### Donate Me
+```
+SOL: C2J4EB2Pb3SHXWZX1CE3MWySpoJAzuXU8MRwAvosTHvV
+ETH: 0xEB7b3aa5f0D5833866610F5401c0AF29f70E6C25
+```
 ### Disclaimer
 This project is intended solely for educational purposes, and the creator assumes no responsibility for any potential site spam from its use.
