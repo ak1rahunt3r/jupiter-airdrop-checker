@@ -4,9 +4,9 @@ Solana wallets checker for 'Jupiter' airdrop. Written on '.Net Framework 4.8' wi
 ### Setup
 Private keys file looks like:
 '''
-<pk1>
-<pk2>
-<pk3>
+<pk1>   
+<pk2>  
+<pk3>    
 '''
 
 Seeds file looks like:
